@@ -1,1 +1,3 @@
-console.log('Rodou')
+'use strict'
+
+import './styles/global.css'
